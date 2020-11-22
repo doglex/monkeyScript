@@ -5,12 +5,12 @@
 // @description  try to take over the world!
 // @author       You
 // @match      *://*/*
-// @grant        none
+// @grant        window.close
 // ==/UserScript==
 
 (function() {
     'use strict';
     document.body.ondblclick = function(){
-       window.close()
+        window.close();
     }
 })();
