@@ -5,3 +5,4 @@
 |  ----  | ----  |
 | TXTReader.user.js  | 以Chrome作为文本阅读器，自定义背景图片，文字大小等 |
 |DoubleClickCloseWindow.user.js| 双击关闭标签页|
+|QuickPageHelper.js|添加上一页/下一页按钮(AIlearning)|
